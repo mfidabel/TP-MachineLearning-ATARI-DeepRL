@@ -1,0 +1,9 @@
+tensorflow==2.7.0
+jupyter
+numpy
+gym
+ale-py
+pyglet
+scikit-image
+matplotlib
+opencv-python-headless
