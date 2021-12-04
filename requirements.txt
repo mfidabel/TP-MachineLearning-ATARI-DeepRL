@@ -2,8 +2,14 @@ tensorflow==2.7.0
 jupyter
 numpy
 gym
+gym[atari, accept-rom-license]
 ale-py
 pyglet
 scikit-image
 matplotlib
 opencv-python-headless
+tf-agents
+tensorboard
+sklearn
+imageio
+imageio-ffmpeg
